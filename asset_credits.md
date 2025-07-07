@@ -26,6 +26,10 @@
 * Peace theme: Cree - The Atomic Era (The Drums Of Poundmaker) - Geoff Knorr, Civilization 6: Rise and Fall OST
 * War theme: Cree - The Ancient Era (The Drums Of Poundmaker) - Poundmaker Singers, Civilization 6: Rise and Fall OST
 
+# The Franks assets:
+* Peace theme: Germany - The Medieval Era (Ich hab die Nacht geträumet) - Geoff Knorr, Civilization 6 OST
+* War theme: Voices of War! - Inon Zur, Crusader Kings: Deus Vult OST
+
 # The Soviet Union assets:
 * Both themes taken from this Civ V [Russia](https://steamcommunity.com/sharedfiles/filedetails/?id=2475956936) mod by [Iska](https://steamcommunity.com/profiles/76561198033595020); original unknown unfortunately.
 
