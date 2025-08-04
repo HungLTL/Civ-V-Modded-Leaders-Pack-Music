@@ -50,10 +50,12 @@
 
 # Vietnam assets:
 * Peace theme & War theme 1: Vietnam - The Atomic Era (Lý kéo chài, Trống Cơm) - Geoff Knorr & Phill Boucher, Civilization 6 New Frontier Pass OST
-* Peace theme 2: Hò vĩ dặm - source unknown, file extracted from from [Lungora](https://steamcommunity.com/id/lungora) and [dephi's](https://steamcommunity.com/profiles/76561198814187012) [Dai Viet mod for Civ V](https://steamcommunity.com/sharedfiles/filedetails/?id=2107506724)
+* Peace theme 2: Hò vĩ dặm - source unknown, file extracted from [Lungora](https://steamcommunity.com/id/lungora) and [dephi's](https://steamcommunity.com/profiles/76561198814187012) [Dai Viet mod for Civ V](https://steamcommunity.com/sharedfiles/filedetails/?id=2107506724)
 * War theme 2: Why Do We Fight? - Russell Brower, World of Warcraft: Mists of Pandaria OST
 
 # Xia assets:
 * Both themes taken from this Civ V [Xia](https://steamcommunity.com/sharedfiles/filedetails/?id=2234941433) mod by [Iska](https://steamcommunity.com/profiles/76561198033595020); original unknown unfortunately.
 
-
+# Yuan assets:
+* Peace theme: Mongolia - The Ancient Era("Pastor Song"; Khoomii Improvisation ) - Nature Ganganbaigal of Tengger Cavalry, Civilization 6: Rise and Fall OST
+* War theme: unknown, file extracted from this Civ V [Yuan](https://steamcommunity.com/sharedfiles/filedetails/?id=3034869731) mod by [Iska](https://steamcommunity.com/profiles/76561198033595020)
